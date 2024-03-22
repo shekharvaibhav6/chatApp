@@ -1,0 +1,40 @@
+header{
+    background: orange;
+    color: white;
+    width: 100%;
+    margin-top: 0px;
+    text-align: center;
+    justify-content: center;
+    align-items: center;
+}
+input{
+    width:300px;
+    height:100px;
+    padding-bottom: 100px;
+    background-color:rgb(212, 187, 154);
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+button{
+    background: blue;
+    color: white;
+    width: 100px;
+    height: 50px;
+    border-radius: 2px solid red;
+    margin-top: 10px;
+}
+form{
+    height:100px;
+    width:100px;
+}
+li{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    color:black;
+    letter-spacing: 1rem;
+    height: 100%;
+    width: 100px;
+    
+    
+}
+
